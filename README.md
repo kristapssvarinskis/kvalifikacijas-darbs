@@ -9,6 +9,7 @@
 -Ar aukšuplādētajām PNG bildēm lietotājs var pats uztaisīt "outfit"/tērpu vai ari izmantojot filtrus atļaut sistēmai pašai uztaisīt "outfit"/tērpu
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 -Outfitus varēs saglabāt
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Izmantotās tehnoloģijas
 -Android Studio
